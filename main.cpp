@@ -1,4 +1,4 @@
-#include <Windows.h>
+/*#include <Windows.h>
 #include <DirectXMath.h>
 #include <DirectXPackedVector.h>
 #include <iostream>
@@ -63,4 +63,4 @@ int main()
 	cout << "F = A * E = " << endl << F << endl;
 
 	return 0;
-}
+}*/
